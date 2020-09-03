@@ -1,5 +1,5 @@
 # Vue 项目
-
+点击预览 https://1738100406.github.io/Vue-cms-mall/dist/index.html
 ## 憋说话，用心去感受每一行代码中的诗情雅意，代码如诗
 
 ## 哈哈，终于可以开始做项目了
